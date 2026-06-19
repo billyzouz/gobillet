@@ -1,0 +1,6 @@
+{
+  "name": "GoBillet",
+  "description": "GoBillet by OpenSaudi — Le bon billet, au bon moment. Plateforme de réservation de voyages (Vols, Séjours, Hôtels) nouvelle génération avec moteur de recherche unifié et options de marque blanche.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
