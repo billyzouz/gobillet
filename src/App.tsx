@@ -233,6 +233,11 @@ export default function App() {
         setLang={setLang}
       />
 
+      {/* CONSTRUCTION BANNER */}
+      <div className="bg-blue-600 text-white text-center text-base font-semibold py-2.5 px-4">
+        🚧 Site en cours de construction
+      </div>
+
       {/* 3. MULTIPAGE ROUTING CONTAINER */}
       <main className="flex-grow">
         
